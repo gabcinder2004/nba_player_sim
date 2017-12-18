@@ -1,0 +1,14 @@
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.exe
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.pdb
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballPlayerSimulator.dll
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballPlayerSimulator.pdb
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.csprojResolveAssemblyReference.cache
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.exe
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.pdb
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.exe
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.pdb
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.exe
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballSimulator.pdb
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballPlayerSimulator.dll
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\bin\Debug\BasketballPlayerSimulator.pdb
+C:\Projects\BasketballPlayerSimulator\BasketballSimulator\obj\Debug\BasketballSimulator.csprojResolveAssemblyReference.cache

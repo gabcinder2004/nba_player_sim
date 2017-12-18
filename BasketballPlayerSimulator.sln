@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballService", "BasketballPlayerSimulator\BasketballService.csproj", "{A34D8891-160E-4CC2-8A6D-5A4270FB6B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballSimulator", "BasketballSimulator\BasketballSimulator.csproj", "{FE79B4C3-074B-477C-A8F5-F7A4D881D39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34D8891-160E-4CC2-8A6D-5A4270FB6B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34D8891-160E-4CC2-8A6D-5A4270FB6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34D8891-160E-4CC2-8A6D-5A4270FB6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34D8891-160E-4CC2-8A6D-5A4270FB6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE79B4C3-074B-477C-A8F5-F7A4D881D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE79B4C3-074B-477C-A8F5-F7A4D881D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE79B4C3-074B-477C-A8F5-F7A4D881D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE79B4C3-074B-477C-A8F5-F7A4D881D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

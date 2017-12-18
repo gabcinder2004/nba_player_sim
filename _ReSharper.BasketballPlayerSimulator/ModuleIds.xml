@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="A34D8891-160E-4CC2-8A6D-5A4270FB6B4E" ModuleId="BasketballPlayerSimulator" />
+  <Module PersistentId="FE79B4C3-074B-477C-A8F5-F7A4D881D39C" ModuleId="BasketballSimulator" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+</Modules>

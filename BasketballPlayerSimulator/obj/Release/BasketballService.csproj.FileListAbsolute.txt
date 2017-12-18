@@ -1,0 +1,4 @@
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballPlayerSimulator\bin\Release\BasketballPlayerSimulator.dll
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballPlayerSimulator\bin\Release\BasketballPlayerSimulator.pdb
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballPlayerSimulator\obj\Release\BasketballPlayerSimulator.dll
+C:\Users\GabrielN\Documents\Visual Studio 2012\Projects\BasketballPlayerSimulator\BasketballPlayerSimulator\obj\Release\BasketballPlayerSimulator.pdb
